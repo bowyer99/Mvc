@@ -2,7 +2,7 @@
   "compile": [
     "../Microsoft.AspNetCore.Mvc.Formatters.Xml.Test/XmlAssert.cs"
   ],
-  "compilationOptions": {
+  "buildOptions": {
     "define": [
       "__RemoveThisBitTo__GENERATE_BASELINES",
       "FUNCTIONAL_TESTS"
@@ -70,7 +70,7 @@
         "portable-net451+win8"
       ]
     },
-    "net451": { }
+    "net451": {}
   },
   "exclude": [
     "wwwroot",

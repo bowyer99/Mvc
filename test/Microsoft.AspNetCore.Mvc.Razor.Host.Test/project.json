@@ -15,7 +15,7 @@
     "Microsoft.AspNetCore.Testing": "1.0.0-*"
   },
   "testRunner": "xunit",
-  "compilationOptions": {
+  "buildOptions": {
     "define": [
       "__RemoveThisBitTo__GENERATE_BASELINES"
     ],
